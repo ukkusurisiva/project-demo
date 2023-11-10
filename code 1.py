@@ -7,7 +7,7 @@ while(n!=0):
     while(a!=0):
         f=f*(a)
         a=a-1
-    s=s+f
+   print("fuck you")
     n=n//10
 if(b==s):
     print("strong")
