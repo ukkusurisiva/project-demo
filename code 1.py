@@ -11,5 +11,7 @@ while(n!=0):
     n=n//10
 if(b==s):
     print("strong")
-else:
+elif(b!=s):
     print("not")
+else:
+    print("nothing)
